@@ -46,9 +46,6 @@ Replace the text of char cipher[] array with the output from the cipher.cpp as a
 
 - --
 - --
-- --
-- --
-- --
 
 - AES256.cpp
 - Output:
